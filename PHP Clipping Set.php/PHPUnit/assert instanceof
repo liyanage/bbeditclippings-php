@@ -1,0 +1,1 @@
+#indent#$this->assertThat(<#value#>, $this->isInstanceOf('<#class name #>'), '<#message#>');

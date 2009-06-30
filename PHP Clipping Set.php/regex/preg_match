@@ -1,0 +1,1 @@
+﻿#indent#preg_match('/<#pattern#>/', <#subject#>, $matches)

@@ -1,0 +1,10 @@
+#indent#$select = <#db instance#>->select();
+$select->from(array('<#table alias#>' => '<#table#>'), array('<#column alias#>' => '<#column#>'));
+$select->join(array('<#table alias#>' => '<#table#>'), '<#join condition#>', array('<#column alias#>' => '<#column#>'));
+$select->where('<##> = ?', <##>);
+$stmt = $select->query();
+$rows = $stmt->fetchAll();
+
+foreach ($rows as $row) {
+	<#code#>;
+}

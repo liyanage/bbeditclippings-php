@@ -1,0 +1,1 @@
+﻿#indent#preg_replace('/<#pattern#>/', <#replacement#>, <#subject#>)

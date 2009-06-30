@@ -1,0 +1,3 @@
+#indent#foreach (<#array#> as $<#index#>) {
+	<#code#>;
+}

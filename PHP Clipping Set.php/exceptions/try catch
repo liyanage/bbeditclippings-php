@@ -1,0 +1,1 @@
+﻿#indent#try {	<#code#>} catch (Exception $e) {	<#code#>}

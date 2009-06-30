@@ -1,0 +1,3 @@
+#indent#while (<#condition#>) {
+	<#code#>;
+}

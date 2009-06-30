@@ -1,0 +1,1 @@
+#indent#$this->assertNotNull(<#value#>, '<#message#>');

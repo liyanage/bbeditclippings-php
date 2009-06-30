@@ -1,0 +1,1 @@
+﻿$i = 0;foreach (debug_backtrace() as $frame) {	$i++;	error_log("frame $i: function " . $frame['class'] . '::' . $frame['function'] . '()');}

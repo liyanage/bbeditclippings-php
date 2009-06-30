@@ -1,0 +1,3 @@
+#indent#public function test<#test method name#>() {
+	$this->assertEquals(<#expected#>, <#value#>, '<#description#>');
+}

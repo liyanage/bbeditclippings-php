@@ -1,0 +1,1 @@
+﻿#indent#switch (<#condition value#>) {		case <#case value#>:		<#case code#>		break;			case <#case value#>:		<#case code#>		break;			default:		<#default code#>		}

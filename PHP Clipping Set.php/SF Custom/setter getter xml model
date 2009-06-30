@@ -1,0 +1,1 @@
+﻿#indent#public function set<##>($value) {	$this->setTextElementValue('<##>', $value);}public function get<##>($value) {	$this->getTextElementValue('<##>');}

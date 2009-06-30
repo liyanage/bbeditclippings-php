@@ -1,0 +1,7 @@
+#indent#if (<#expression#>) {
+	<#code#>;
+} elseif (<#expression#>) {
+	<#code#>;
+} else {
+	<#code#>;
+}
